@@ -1,0 +1,14 @@
+/* footer */
+#footer {
+    background-color: #FF6363;
+    text-align: center;
+}
+
+.media {
+    color: #fff;
+}
+
+.media:hover {
+    color: bisque;
+    transform: scale(1.1);
+}
